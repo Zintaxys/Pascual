@@ -1,0 +1,6 @@
+{
+  "name": "Pascual Comercial",
+  "description": "Plataforma B2B y de ventas para la Sociedad Cooperativa Trabajadores de Pascual (Boing, Pato Pascual).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
